@@ -144,6 +144,7 @@ public void windowOpened(WindowEvent e) {
 	// TODO Auto-generated method stub
 	cmb_brand.removeAllItems();
 	cmb_model_no.removeAllItems();
+	JOptionPane.showMessageDialog(null, "hello");
 	
 }
 }
