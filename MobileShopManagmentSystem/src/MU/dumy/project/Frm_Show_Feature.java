@@ -146,6 +146,7 @@ public void windowOpened(WindowEvent e) {
 	cmb_model_no.removeAllItems();
 	JOptionPane.showMessageDialog(null, "hello");
 	
+	
 }
 }
 

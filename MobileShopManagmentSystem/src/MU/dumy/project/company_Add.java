@@ -142,7 +142,7 @@ public class company_Add extends LoginBase {
 			} catch (SQLException e) {
 				JOptionPane.showMessageDialog(null, e);
 			}
-			
+			JOptionPane.showMessageDialog(null, "hi");
 		}
 		return true;
 	
